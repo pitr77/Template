@@ -1,0 +1,19 @@
+/*   
+Theme Name: Fission
+Description: A Child Theme of Musical-vibe
+Template: musical-vibe
+*/
+/* @import url(../musical-vibe/style.css); */
+
+
+#custom-header {
+    display: none;
+}
+
+.posted-on:hover {
+    background: aliceblue;
+}
+/* .site-title {
+    font-size: 100px;
+} */
+

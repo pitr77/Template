@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\inc",
+    "\\inc\\customizer",
+    "\\inc\\helper",
+    "\\inc\\hook",
+    "\\languages",
+    "\\lib",
+    "\\lib\\breadcrumbs",
+    "\\lib\\tgm",
+    "\\lib\\widget-base",
+    "\\third-party"
+  ],
+  "SelectedNode": "\\header.php",
+  "PreviewInSolutionExplorer": false
+}
